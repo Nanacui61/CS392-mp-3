@@ -16,7 +16,7 @@ export default function Home(){
         
          <main>
             
-                <StyledImg id="profile-image" src={`/public/Cui.jpg`} alt="Profile img"/>
+                <StyledImg id="profile-image" src={`/Cui.jpg`} alt="Profile img"/>
         
                 <h2>About Me</h2>
                 
