@@ -2,7 +2,7 @@ import {Link} from "react-router"
 import styled from "styled-components";
 
 export const StyledNav = styled.nav`
-  background-color: #bbdefb;
+  background-color: #f0f8ff;
   padding: 20px;
 
   @media (min-width: 751px) {
@@ -23,21 +23,20 @@ export const StyledUl = styled.ul`
   }
 
   @media (max-width: 750px) {
-  nav ul {
     flex-direction: row;
     justify-content: center;
-  }
+  
 }
 `;
 
 export const StyledLi = styled.li`
   margin: 10px;
-
-  a {
-    text-decoration: none;
-    color: #000;
-    font-weight: bold;
-  }
+  list-style-type: none;
+  
+  
+  
+  font-weight: bold;
+  
 `;
 export default function Nav(){
 
