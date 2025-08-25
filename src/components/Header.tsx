@@ -1,15 +1,15 @@
 import styled from "styled-components";
 
 const StyledHeader=styled.header`
-    background-color: #e3f2fd;
+    background-color: #B9B7BD;
     padding: 20px;
 
     @media (max-width: 750px) {
-    text-align: center;
-  }
+        text-align: center;
+    }
     @media (min-width: 751px) {
-    text-align: left;
-  }
+        text-align: left;
+    }
 `;
 
 export default function Header(){

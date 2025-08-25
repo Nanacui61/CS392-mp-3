@@ -2,7 +2,7 @@ import {Link} from "react-router"
 import styled from "styled-components";
     
 const StyledFooter=styled.footer`
-background-color: #cfd8dc;
+background-color: #868B8E;
   text-align: center;
   padding: 15px;
   font-size: calc(12px + 0.3vw);
