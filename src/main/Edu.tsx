@@ -15,7 +15,7 @@ export default function Edu() {
           <li>Database Systems</li>
           <li>Algorithm Analysis and Design</li>
           <li>Mobile Application Development</li>
-          <li>Artificial Intelligence (AI)</li>
+          <li>Agile Application Development</li>
           <li>Behavioral Economics</li>
           <li>Empirical Economics</li>
         </ul>

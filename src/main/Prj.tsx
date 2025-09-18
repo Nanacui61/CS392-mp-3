@@ -6,6 +6,30 @@ export default function Prj(){
 
     return(
         <main>
+            <section>
+                <h2>Ravenous — Yelp-Powered Restaurant Search App</h2>
+                <p><em>Developer</em> | August 2025</p>
+
+                <ul>
+                    <li>Built a full-stack web app that allows users to search for local restaurants, filter results by location, category, and sort criteria, and view real-time business data via the Yelp Fusion API.</li>
+                    <li>Implemented modular React components with state management to handle dynamic search, filtering, and data rendering.</li>
+                    <li>Integrated secure API key handling (moved credentials to .env) and deployed the project using Vercel for production readiness.</li>
+                    <li>Designed responsive UI with reusable CSS components, improving user experience and cross-device accessibility.</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Entity Hunt Web Game </h2>
+                <p><em>Developer</em> | August 2025</p>
+                <p><a href="https://final-project-opal-one.vercel.app/" target="_blank">Project Link</a></p>
+                <ul>
+                    <li> Designed and developed a narrative-driven point-and-click puzzle game using Next.js, TypeScript, and MongoDB.</li>
+                    <li>Implemented dynamic grid logic, contextual message updates, and glitch-style UI effects using styled-components
+                        and CSS animations.</li>
+                    <li>Created persistent game state tracking and automatic recording of win/loss data to a MongoDB backend.</li>
+                    <li>Deployed fully responsive and stylized game UI to Vercel, incorporating client/server rendering and secure API
+                        routing.</li>
+                </ul>
+            </section>
         <section>
           <h2>Smart Meals Recipe App</h2>
           <p><em>Developer</em> | June 2025</p>
